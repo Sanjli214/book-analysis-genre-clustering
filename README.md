@@ -1,5 +1,5 @@
-# book-analysis-genre-clustering
-# 📚 Book Genre Clustering and Analysis
+# book-analysis-project
+# 📚 Book Analysis
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -60,7 +60,7 @@ We enrich a Goodreads dataset with external genre information and use **unsuperv
 
 ## 📂 Folder Structure
 
-- `book_clustering.ipynb`: main notebook
+- `Book_Analysis_Project.ipynb`: main notebook
 - `books.csv`: original dataset
 - `goodreads_data.csv`: genre data
 - `output_plots/`: visualizations
