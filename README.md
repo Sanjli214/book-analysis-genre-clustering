@@ -43,7 +43,7 @@ We enrich a Goodreads dataset with external genre information and use **unsuperv
 - Ratings count vs average rating scatterplot
 - Genre frequency bar charts
 - Clusters visualized using PCA (2D)
-- Word clouds per cluster (optional)
+- Word clouds per cluster 
 - Language vs rating trends
 
 ---
@@ -53,7 +53,7 @@ We enrich a Goodreads dataset with external genre information and use **unsuperv
 - Python (Pandas, NumPy)
 - Matplotlib, Seaborn
 - scikit-learn (KMeans, PCA)
-- WordCloud (optional)
+- WordCloud 
 - Jupyter Notebook
 
 ---
